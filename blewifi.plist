@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://123.123.123.123:1111/maarrytask.ipa</string>
+                    <string>https://github.com/wanghf16/ios_plist/raw/master/WMBleWiFi.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>安装过程显示图片</string>
+                    <string>https://icweiliimg1.pstatp.com/weili/l/864360751039774758.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
